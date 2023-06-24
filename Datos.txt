@@ -1,0 +1,48 @@
+p 1 Ad_Astra 125 Drama 3.3 2019
+p 2 Star_Wars_The_Rise_of_Skywalker 142 Accion 3.35 2019
+p 3 The_Lion_King 151 Animacion 4.5 1994
+s 4 Dark 456 Misterio 4.8 
+10
+1 Secrets 51
+2 Lies 44
+3 Past_and_Present 45
+4 Double_Lives 47
+5 Truths 45
+6 Sic_Mundus_Creatus_Est 51
+7 Crossroads 52
+8 As_you_sow_so_you_shall_reap 50
+9 Everything_is_now 55
+10 Alpha_and_omega 57
+p 5 Onward 102 Accion 3.75 2020
+s 6 Rick_and_Morty 237 Comedia 4.9 
+11
+1 Pilot 22
+2 Lawnmower_Dog 21
+3 Anatomy_Park 21
+4 M.Night_Shaym-Aliens! 21
+5 Meeseeks_and_Destroy 21
+6 Rick_Potion_#9 21
+7 Raising_Gazopazorp 22
+8 Rixty_Minutes 22
+9 Something_Ricked_This_Way_Comes 22
+10 Close_Rick-counters_of_the_Rick_Kind 22
+11 Ricksy_Business 22
+p 7 Piratas_del_Caribe_la_maldición_del_Perla_Negra 143 Accion 4.3 2003
+p 8 Interestellar 169 Accion 3.5 2019
+p 9 Inception 148 Accion 4.8 2015
+p 10 Los_Increibles 115 Animacion 4.6 2004
+p 11 Buscando_a_Nemo 100 Animacion 4.4 2003
+s 12 Sherlock 266 Misterio 4.7 
+3
+1 A_Study_in_Pink 88
+2 The_Blind_Banker 89
+3 The_Great_Game 89
+p 13 Zodiac 157 Misterio 4.6 2007
+p 14 Una_Esposa_de_Mentira 117 Comedia 4.8 2011
+s 15 The_Walking_Dead 225 Drama 4.6 
+5
+1 Days_Gone_Bye 45
+2 Guts 45
+3 Tell_it_to_the_Frogs 45
+4 Vatos 45
+5 Wildfire 45
